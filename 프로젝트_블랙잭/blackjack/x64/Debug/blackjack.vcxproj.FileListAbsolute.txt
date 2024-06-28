@@ -1,0 +1,2 @@
+C:\Users\Hyuk\Desktop\03.대학 활동\2학년 1학기\심화프로그래밍\프로젝트_블랙잭\blackjack2\x64\Debug\blackjack.exe
+C:\Users\Hyuk\Desktop\03.대학 활동\2학년 1학기\심화프로그래밍\프로젝트_블랙잭\blackjack\x64\Debug\blackjack.exe
