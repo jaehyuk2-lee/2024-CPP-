@@ -1,0 +1,3 @@
+﻿  실습과제 14.cpp
+C:\Users\Hyuk\Desktop\03.대학 활동\2학년 1학기\심화프로그래밍\실습\실습 5주차\실습 5주차\실습과제 14.cpp(72,12): warning C4244: '인수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  실습 5주차.vcxproj -> C:\Users\Hyuk\Desktop\03.대학 활동\2학년 1학기\심화프로그래밍\실습\실습 5주차\Debug\실습 5주차.exe
